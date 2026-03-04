@@ -1,0 +1,2 @@
+#Код Python
+print("HelloWorld")
